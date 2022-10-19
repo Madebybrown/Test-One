@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container-wrapper {}
+/* .container-wrapper {} */
 
 .container-wrapper--red {
     background-color: #f05f40;
@@ -47,9 +47,9 @@ body {
     background-color: rgba(0,0,0,0.5);
 }
 
-.quotes-container {}
+/* .quotes-container {}
 
-.features-container {}
+.features-container {} */
 
 /* Page Headers */
 .page-header {
